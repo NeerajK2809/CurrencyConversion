@@ -8,7 +8,7 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rohith.microservices</groupId>
+	<groupId>com.neeraj.microservices</groupId>
 	<artifactId>limit-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
