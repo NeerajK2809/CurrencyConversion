@@ -2,7 +2,6 @@
 
 Maven Command To Build Docker Image : spring-boot:build-image
 
-![](https://github.com/Rohithv07/CurrencyExchangeCurrencyConversion/blob/main/images/ApiDocumentation.gif)
 
 ## Currency Exchange Service
 
